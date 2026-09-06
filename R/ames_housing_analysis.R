@@ -5,7 +5,7 @@
 
 
 # Make sure the 
-# Run once if needed:n
+# Run once if needed:
 # install.packages(c("tidyverse", "car", "MASS", "leaps", "corrplot", "caret"))
 
 library(tidyverse)
@@ -13,7 +13,9 @@ library(car)        # VIF
 library(MASS)       # stepAIC
 library(leaps)      # best subset
 library(corrplot)   # correlation plot
-library(caret)      # dummy variables / preprocessing\n\ndir.create("output", showWarnings = FALSE)
+library(caret)      # dummy variables / preprocessing
+
+dir.create("output", showWarnings = FALSE)
 
 # IMPORT DATA
 # =========================================================
