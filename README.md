@@ -74,4 +74,4 @@ source("R/ames_housing_analysis.R")
 
 ## Project context
 
-Graduate Regression Methods project completed as part of a collaborative team at Villanova University.\n\n**My contributions:** data cleaning, missing-value strategy, categorical feature engineering, exploratory analysis, regression model development, diagnostics, and interpretation. Repository organization and reproducibility improvements were prepared for portfolio presentation.
+Collaborative data science project completed at Villanova University.\n\n**My contributions:** data cleaning, missing-value strategy, categorical feature engineering, exploratory analysis, regression model development, diagnostics, and interpretation. Repository organization and reproducibility improvements were prepared for portfolio presentation.
