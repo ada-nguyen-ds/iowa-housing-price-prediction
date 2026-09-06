@@ -56,6 +56,11 @@ report/
 README.md
 ```
 
+## View the project report
+
+- [View the full PDF presentation](report/Khanh_Nguyen_Iowa_Housing_Price_Prediction.pdf)
+- [Review the complete R analysis](R/ames_housing_analysis.R)
+
 ## Reproduce the analysis
 
 1. Download `train.csv` from the Kaggle competition listed in [data/README.md](data/README.md).
