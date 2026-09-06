@@ -10,7 +10,7 @@ Place the following file here:
 data/train.csv
 ```
 
-The pipeline currently reproduces the explanatory regression analysis using the training dataset. The original Kaggle files are not committed to this repository so the project remains lightweight and points readers to the authoritative source.
+The pipeline fits the explanatory regression analysis using the training dataset and prepares the competition test dataset with the same cleaning rules. The original Kaggle files are not committed to this repository so the project remains lightweight and points readers to the authoritative source.
 
 Dataset scope:
 
