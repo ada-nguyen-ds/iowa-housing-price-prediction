@@ -74,4 +74,4 @@ source("R/ames_housing_analysis.R")
 
 ## Project context
 
-Collaborative data science project completed at Villanova University.\n\n**My contribution:** I contributed across the full analytical workflow, including data cleaning, missing-value treatment, categorical feature engineering, exploratory analysis, regression model development, diagnostics, visualization, and interpretation. The team worked collaboratively rather than dividing the project into separate individual sections. I later reorganized the code and documentation for reproducible portfolio presentation.
+Collaborative data science project completed at Villanova University. I contributed across the full analytical workflow, including data cleaning, missing-value treatment, categorical feature engineering, exploratory analysis, regression model development, diagnostics, visualization, and interpretation. The team worked collaboratively rather than dividing the project into separate individual sections. I later reorganized the code and documentation for reproducible portfolio presentation.
